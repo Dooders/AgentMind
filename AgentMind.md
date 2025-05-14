@@ -6,7 +6,7 @@ AgentMind is a computational framework that models intelligent agent cognition u
 ---
 
 **1. Introduction**
-Modern artificial intelligence systems benefit from modularity, interpretability, and adaptability. However, few frameworks provide a cognitively grounded foundation for modeling intelligence in a way that mirrors human psychological structures. AgentMind addresses this gap by structuring intelligent behavior around discrete cognitive subsystems—modular components that perform distinct roles and can be adapted or emphasized depending on context, experience, or design goals.
+Modern artificial intelligence systems benefit from modularity, interpretability, and adaptability. However, few frameworks provide a cognitively grounded foundation for modeling intelligence in a way that mirrors human psychological structures.<-update---> AgentMind addresses this gap by structuring intelligent behavior around discrete cognitive subsystems—modular components that perform distinct roles and can be adapted or emphasized depending on context, experience, or design goals.<---update->
 
 ---
 
