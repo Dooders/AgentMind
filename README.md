@@ -59,14 +59,7 @@ for step in range(100):
 
 ---
 
-## Diagnostics Workbench (WIP)
-
-AgentMind supports a [Diagnostics Workbench](./diagnostics/) for analyzing post-run behavior:
-
-* Replay step-by-step decisions
-* Visualize module disagreements
-* Inspect memory state and adaptation
-
+## Code Structure
 
 ```graphql
 agentmind/
