@@ -5,7 +5,7 @@
 
 ---
 
-## Features
+## Future Features
 
 * 🧠 **Modular Cognition**: Plug-and-play modules for perception, memory, decision-making, and self-regulation.
 * 📈 **Learning by Design**: Support for reinforcement, supervised, or rule-based learning inside each module.
@@ -29,38 +29,7 @@
 
 ---
 
-## Installation
-
-```bash
-git clone https://github.com/your-org/agentmind.git
-cd agentmind
-pip install -e .
-```
-
----
-
-## Running a Simulation
-
-```python
-from agentmind.core.agent import AgentMindCore
-from agentmind.core.registry import register_all
-from agentmind.envs.toy_env import ToyEnvironment
-
-agent = AgentMindCore()
-register_all(agent)
-
-env = ToyEnvironment()
-
-for step in range(100):
-    obs = env.observe()
-    action_id, decision = agent.step(obs)
-    reward = env.evaluate(action_id, decision)
-    agent.learn_from(action_id, reward)
-```
-
----
-
-## Code Structure
+## Planned Code Structure
 
 ```graphql
 agentmind/
