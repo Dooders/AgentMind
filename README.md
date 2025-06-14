@@ -1,4 +1,5 @@
 # AgentMind
+![Status](https://img.shields.io/badge/status-In%20Development%20–%20Experimental%20%26%20Aspirational-blue)
 
 **AgentMind** is a modular cognitive framework for building interpretable, adaptive artificial agents. Each cognitive function—like attention, memory, inhibition, and reasoning—is modeled as an independent module. This design allows researchers and developers to simulate humanlike behavior, evaluate decision-making processes, and study modular learning dynamics in artificial agents.
 
